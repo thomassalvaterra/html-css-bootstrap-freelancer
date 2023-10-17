@@ -1,0 +1,66 @@
+header{
+    background-color: rgba(44,62,80,255);
+    color: white;
+}
+
+.fa-bars{
+    color: grey;
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 0.5rem;
+}
+
+#introducion{
+    background-color: rgba(26,188,156,255);
+    color: white;
+}
+
+.logo{
+    width: 13rem;
+}
+
+#centralPart{
+    color:  rgba(44,62,80,255);
+}
+
+.main_photo{
+    border-radius: 8px;
+}
+
+#about{
+    background-color: rgba(26,188,156,255);
+    color: white;
+}
+
+#contact{
+    color:  rgba(44,62,80,255);
+}
+
+.btn_teal{
+    background-color: rgba(26,188,156,255);
+    color: white;
+}
+
+#location{
+    background-color: rgba(58,84,109,255);
+    color: white;
+}
+
+.fa-brands{
+    padding: 0.5rem;
+    margin-right: 0.3rem;
+    border: 1px solid white;
+    border-radius: 16px;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(26,188,156,255);
+}
+
+#copyright{
+    background-color: rgba(44,62,80,255);
+    color: white;
+    font-size: 11px;
+}
+
